@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+src/temp/debug_logs/
+src/temp/debug_images/
