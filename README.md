@@ -37,3 +37,6 @@ Aplicação desktop com interface web (via Flask) para renomear imagens com base
 
 ```bash
 pip install -r requirements.txt
+
+## Video de uso e explicação do projeto
+YouTube:
